@@ -1,0 +1,19 @@
+.tag-item {
+  list-style-type: none;
+}
+.button {
+  height: 32px;
+  border: 1px solid #ffffff;
+  margin: 8px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  cursor: pointer;
+}
+.active-btn {
+  background-color: #f3aa4e;
+  color: #ffffff;
+  border: none;
+}
